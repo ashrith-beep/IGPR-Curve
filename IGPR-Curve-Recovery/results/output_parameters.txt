@@ -1,0 +1,3 @@
+Theta (degrees) : 30.0
+X (translation) : 55.0
+M (parameter)   : 0.029999980739494135

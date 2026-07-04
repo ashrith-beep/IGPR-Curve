@@ -1,0 +1,15 @@
+# Ignore all files at root
+/*
+
+# Except for the target IGPR-Curve-Recovery directory
+!/IGPR-Curve-Recovery/
+!/.gitignore
+
+# Subfolder ignores
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+**/*.pyd
+**/.DS_Store
+**/.vscode/
+**/.idea/
